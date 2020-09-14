@@ -1,1 +1,6 @@
+title: Bowfolios
+description: Profiles, Projects, and Interests for the UH Community
+github:
+  is_project_page: true
+  repository_url: https://github.com/Asianbois808/Assignment-1
 theme: jekyll-theme-cayman
