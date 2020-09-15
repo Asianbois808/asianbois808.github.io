@@ -62,6 +62,6 @@ This application is a reimplementation of <a href="https://bowfolios.github.io/"
 
 5. In the app folder, type `npm install` to install the needed plugins to run the app.
 
-6. Next, type `ppx react-native run-android` to run the program.
+6. Next, type `npx react-native run-android` to run the program.
 
 
