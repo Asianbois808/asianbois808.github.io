@@ -20,7 +20,7 @@ This application is a reimplementation of <a href="https://bowfolios.github.io/"
 
 - Landing Page
 
-<img src="/pics/landing.png" width=50% height=50%>
+<img src="/pics/landing.png =100x20">
 
 - Menu Bar
 
