@@ -1,5 +1,6 @@
 # Table of Contents
 
+* [Overview](#overview)
 * [Project Goals](#project-goals)
 * [Milestones](#milestones)
 * [User Guide](#user-guide)
