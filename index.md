@@ -18,39 +18,39 @@ This application is a reimplementation of <a href="https://bowfolios.github.io/"
 
 # User Guide
 
-- Landing Page
+## Landing Page
 
-<img src="/pics/landing.png" width="50%" height="50%">
+<img src="/pics/landing.png" width="35%" height="35%">
 
-- Menu Bar
+## Menu Bar
 
 <img src="/pics/menu.png">
 
-- Sign In Page
+## Sign In Page
 
 <img src="/pics/sign-in.png">
 
-- Sign Up Page
+## Sign Up Page
 
 <img src="/pics/sign-up.png">
 
-- Profiles Page
+## Profiles Page
 
 <img src="/pics/profiles.png">
 
-- Projects Page
+## Projects Page
 
 <img src="/pics/projects.png">
 
-- Interests Page
+## Interests Page
 
 <img src="/pics/interests.png">
 
-- Add Project Page
+## Add Project Page
 
 <img src="/pics/add-project.png">
 
-- Filter Page
+## Filter Page
 
 <img src="/pics/filter.png">
 
