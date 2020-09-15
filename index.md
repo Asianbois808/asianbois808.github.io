@@ -5,7 +5,9 @@
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 
-# Overview 
+# Overview
+
+This application is a reimplementation of <a href="https://bowfolios.github.io/">BowFolios</a> using React Native to support mobile users. Users are able to view and modify profiles, projects, and interests, which can be useful for organizing achievements and connecting with others who share similar interests.
 
 # Project Goals
 
