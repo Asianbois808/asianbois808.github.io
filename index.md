@@ -1,3 +1,5 @@
+# Table of Contents
+
 * [Project Goals](#project-goals)
 * [Milestones](#milestones)
 * [User Guide](#user-guide)
@@ -6,8 +8,6 @@
 # Overview 
 
 # Project Goals
-
-## Stretch Goals
 
 # Milestones
 
