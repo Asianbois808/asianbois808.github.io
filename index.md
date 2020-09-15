@@ -72,7 +72,9 @@ Select interests to filter and view specific users.
 
 # Developer Guide
 
-1. To begin, you can retrieve the Bowfolios source code from our GitHub repository <a href="https://github.com/Asianbois808/Assignment-1">here</a>.
+1. To begin, install React Native and Android Emulator (guide can be found <a href="https://www.youtube.com/watch?v=Hf4MJH0jDb4">here</a>).
+
+1. Now, retrieve the Bowfolios source code from our GitHub repository <a href="https://github.com/Asianbois808/Assignment-1">here</a>.
 
 2. Clone the repository to GitHub Desktop.
 
