@@ -11,7 +11,7 @@
 
 # Milestones
 
-## Milestone 1: <a href="">Click Here</a>
+## <a href="">Milestone 1</a>
 
 # User Guide
 
