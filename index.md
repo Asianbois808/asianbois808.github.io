@@ -20,37 +20,55 @@ This application is a reimplementation of <a href="https://bowfolios.github.io/"
 
 ## Landing Page
 
+The landing page will allow the user to sign in, sign up, or access one of the other pages by opening the menu on the top left.
+
 <img src="/pics/landing.png" width="35%" height="35%">
 
 ## Menu Bar
+
+The menu bar is where the user will find all the different pages that can be accessed within BowFolios.
 
 <img src="/pics/menu.png" width="35%" height="35%">
 
 ## Sign In Page
 
+Returning users with a previously registered account will be able to sign.
+
 <img src="/pics/sign-in.png" width="35%" height="35%">
 
 ## Sign Up Page
+
+New users can create an account.
 
 <img src="/pics/sign-up.png" width="35%" height="35%">
 
 ## Profiles Page
 
+Lists all registered profiles along with associated interests/projects.
+
 <img src="/pics/profiles.png" width="35%" height="35%">
 
 ## Projects Page
+
+Shows existing projects and associated profiles.
 
 <img src="/pics/projects.png" width="35%" height="35%">
 
 ## Interests Page
 
+Able to view interests and associated profiles.
+
 <img src="/pics/interests.png" width="35%" height="35%">
 
 ## Add Project Page
 
+Registered users can create new projects.
+
 <img src="/pics/add-project.png" width="35%" height="35%">
 
 ## Filter Page
+
+Select interests to filter and view specific users.
 
 <img src="/pics/filter.png" width="35%" height="35%">
 
