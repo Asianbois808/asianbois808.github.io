@@ -24,35 +24,35 @@ This application is a reimplementation of <a href="https://bowfolios.github.io/"
 
 ## Menu Bar
 
-<img src="/pics/menu.png">
+<img src="/pics/menu.png" width="35%" height="35%">
 
 ## Sign In Page
 
-<img src="/pics/sign-in.png">
+<img src="/pics/sign-in.png" width="35%" height="35%">
 
 ## Sign Up Page
 
-<img src="/pics/sign-up.png">
+<img src="/pics/sign-up.png" width="35%" height="35%">
 
 ## Profiles Page
 
-<img src="/pics/profiles.png">
+<img src="/pics/profiles.png" width="35%" height="35%">
 
 ## Projects Page
 
-<img src="/pics/projects.png">
+<img src="/pics/projects.png" width="35%" height="35%">
 
 ## Interests Page
 
-<img src="/pics/interests.png">
+<img src="/pics/interests.png" width="35%" height="35%">
 
 ## Add Project Page
 
-<img src="/pics/add-project.png">
+<img src="/pics/add-project.png" width="35%" height="35%">
 
 ## Filter Page
 
-<img src="/pics/filter.png">
+<img src="/pics/filter.png" width="35%" height="35%">
 
 
 # Developer Guide
