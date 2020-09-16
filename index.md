@@ -13,6 +13,10 @@ This application is a reimplementation of <a href="https://bowfolios.github.io/"
 
 ## <a href="https://github.com/kimmicah/bowfolios/milestone/1">Milestone 1</a>
 
+## Milestone 2
+
+We plan to finish up the pages and start the backend (i.e. authorization and database).
+
 # User Guide
 
 ## Landing Page
