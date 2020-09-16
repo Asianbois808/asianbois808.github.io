@@ -11,7 +11,7 @@ This application is a reimplementation of <a href="https://bowfolios.github.io/"
 
 # Milestones
 
-## <a href="https://github.com/kimmicah/bowfolios/milestone/1">Milestone 1</a>
+## <a href="https://github.com/Asianbois808/Assignment-1/milestone/1">Milestone 1</a>
 
 ## Milestone 2
 
