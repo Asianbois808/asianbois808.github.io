@@ -13,9 +13,7 @@ This application is a reimplementation of <a href="https://bowfolios.github.io/"
 
 ## <a href="https://github.com/Asianbois808/Assignment-1/milestone/1">Milestone 1</a>
 
-## Milestone 2
-
-We plan to finish up the pages and start the backend (i.e. authorization and database).
+## <a href="https://github.com/Asianbois808/Assignment-1/milestone/2">Milestone 2</a>
 
 # User Guide
 
