@@ -51,17 +51,29 @@ Lists all registered profiles along with associated interests/projects.
 
 <img src="/pics/profiles.png" width="35%" height="35%">
 
+Shows an example Profile card.
+
+<img src="/pics/profiles-card.png" width="35%" height="35%">
+
 ## Projects Page
 
 Shows existing projects and associated profiles.
 
 <img src="/pics/projects.png" width="35%" height="35%">
 
+Shows an example Project card.
+
+<img src="/pics/projects-card.png" width="35%" height="35%">
+
 ## Interests Page
 
 Able to view interests and associated profiles.
 
 <img src="/pics/interests.png" width="35%" height="35%">
+
+Shows an example Interest card.
+
+<img src="/pics/interests-card.png" width="35%" height="35%">
 
 ## Add Project Page
 
