@@ -27,6 +27,12 @@ The landing page will allow the user to sign in, sign up, or access one of the o
 
 <img src="/pics/landing.png" width="35%" height="35%">
 
+## Your Profile Page
+
+The profile page is only shown to users that are logged in and allow them to update their profile.
+
+<img src="/pics/your-profile.png" width="35%" height="35%">
+
 ## Menu Bar
 
 The menu bar is where the user will find all the different pages that can be accessed within BowFolios.
