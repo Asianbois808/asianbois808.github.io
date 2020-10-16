@@ -17,7 +17,9 @@ This application is a reimplementation of <a href="https://bowfolios.github.io/"
 
 ## <a href="https://github.com/Asianbois808/Assignment-1/milestone/3">Milestone 3</a>
 
-We plan on getting a majority of the backend functionality working and will also continue cleaning up the UI.
+## <a href="https://github.com/Asianbois808/Assignment-1/milestone/4">Milestone 4</a>
+
+We will try our best to ensure that the app is completely functional and no errors are present. 
 
 # User Guide
 
