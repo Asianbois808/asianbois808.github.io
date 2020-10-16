@@ -17,8 +17,6 @@ This application is a reimplementation of <a href="https://bowfolios.github.io/"
 
 ## <a href="https://github.com/Asianbois808/Assignment-1/milestone/3">Milestone 3</a>
 
-## <a href="https://github.com/Asianbois808/Assignment-1/milestone/4">Milestone 4</a>
-
 We will try our best to ensure that the app is completely functional and no errors are present. 
 
 # User Guide
@@ -95,6 +93,16 @@ Select interests to filter and view specific users.
 
 <img src="/pics/filter.png" width="35%" height="35%">
 
+## Authentication and Database Model
+
+### Firebase Auth
+
+For the authentication, we used Firebase's Auth API which handles the user information behind the scenes. Because of it, we no longer have to worry about using a database to store emails and passwords—Firebase Auth takes care of it.
+
+### Firebase Firestore
+
+When making the database, one of the problems (and it was addressed in the bowfolios site) we encountered was to make the Profiles, Projects, and Interests primary collections
+relate to each other. Since the database that we used is Firebase's Firestore is NoSQL, we had to create three secondary collections namely ProfilesProjects, ProfilesInterests, and ProjectsInterests to simulate a join() relationship between the three primary collections. Each of the secondary collections would contain documents that has the unique identifier of the primary collections it's trying to join. For instance, the unique identifier for the Profiles collection is the email, while for the Projects collection, it would be the project name. Therefore, the secondary collection ProfilesProject would have documents that have email and project name fields.
 
 # Developer Guide
 
